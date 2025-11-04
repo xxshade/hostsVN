@@ -7199,8 +7199,10 @@ api16-access-gcp.pangle-b.io
 api16-access-sg.pangle-b.io
 api16-log-sg.pangle-b.io
 pangle-b.io
+api16-access-ttp-b.tiktokpangle.us
 api16-access-ttp.tiktokpangle.us
 tiktokpangle.us
+api16-access-ttp-b.tiktokpangle-b.us
 api16-access-ttp.tiktokpangle-b.us
 tiktokpangle-b.us
 lf-static.tiktokpangle-cdn-us.com
@@ -8900,11 +8902,6 @@ serve.awmdelivery.com
 www.awmdelivery.com
 livetracker.rfe.pangea-cms.com
 livetracker.voa.pangea-cms.com
-aa.online-metrix.net
-h-sdk.online-metrix.net
-h.online-metrix.net
-h64.online-metrix.net
-online-metrix.net
 ads.amxrtb.com
 amxrtb.com
 assets.amxrtb.com
@@ -10058,6 +10055,7 @@ web-device-id.banggood.com
 mtgglobals.com
 adx-tk.mtgglobals.com
 cdn-adn-https.mtgglobals.com
+configure-tcp-ios.mtgglobals.com
 sg01.mtgglobals.com
 new-programmatic.com
 match.new-programmatic.com
@@ -10251,6 +10249,7 @@ adlogists.com
 engine.adlogists.com
 insights.rtgio.co
 rtgio.co
+bsxzc.ttrk.io
 h3yci.ttrk.io
 sin.ttrk.io
 ttrk.io
@@ -13667,6 +13666,7 @@ btpnative.com
 btrll.com
 bucksense.com
 budvawshes.ru
+buffooncountabletreble.com
 bulbbait.com
 buleor.com
 bullionglidingscuttle.com
@@ -14100,6 +14100,7 @@ crtv.mate1.com
 crudenessfinishersacred.com
 crumbrationally.com
 crummydevioussucculent.com
+crumpetprankerstench.com
 crumplylenient.com
 crunchybears.com
 csm.cxpublic.com
@@ -14784,6 +14785,7 @@ gkbhrj49a.com
 gkemujoccwin.com
 gketcakpeh.com
 gkpohvff.com
+gkuocadgecsga.com
 glaciervivid.com
 glaignicmo.com
 glaingotseemt.net
@@ -15113,6 +15115,7 @@ ihhqwaurke.com
 ii.decastebonise.com
 iifvcfwiqi.com
 iiqbttkbfvgyo.com
+ik.hatcheskoeri.shop
 ikahnruntx.com
 ikengoti.com
 ikilrategroahe.com
@@ -15407,6 +15410,7 @@ kuno-gae.com
 kupefoarsadseer.com
 kupona.de
 kuqfudazkn.com
+kvaurjynazce.com
 kvkaa.com
 kvtaaa.top
 kw3y5otoeuniv7e9rsi.com
@@ -15741,6 +15745,7 @@ mintrace.com
 mirohqodlf.com
 miserablenobody.com
 misguidedclotpensioner.com
+misqimohlpk.com
 missitzantiot.com
 misstrends.com
 mitaxsodwrfu.com
@@ -16189,6 +16194,7 @@ otieu.com
 otqxvqzdgl.com
 oufauthy.net
 ouftukoo.net
+ourithauphexaus.com
 oustoope.com
 out-there-media.com
 outabsola.com
@@ -16414,6 +16420,7 @@ pocrd.cc
 pocrowpush.com
 podefr2.net
 podsklzegshmnd.com
+poepksqs.com
 pofohensoahee.net
 poggdgdwutcmbx.com
 pointedpleasure.com
@@ -17253,6 +17260,7 @@ stnyirechxxi.com
 stoakrestultan.com
 stoampaliy.net
 stolenforensicssausage.com
+stooghopsee.net
 stoopfalse.com
 stoorgel.com
 stootsou.net
@@ -17520,6 +17528,7 @@ track.buybestday.com
 track.contently.com
 track.flexlinks.com
 track.flexlinkspro.com
+track.getmydeals.net
 track.involvkgfr.com
 trackalyzer.com
 trackedlink.net
@@ -18102,6 +18111,7 @@ x-traceur.com
 x.blueduckredapple.com
 x.thecatmachine.com
 x2sfa.javgg.eu
+x7i0.com
 x7r3mk6ldr.com
 xad.com
 xadsmart.com
@@ -18552,6 +18562,7 @@ greedseed.world
 guihua-china.com
 gurgle.zdbb.net
 gw-iad-bid.ymmobi.com
+h.online-metrix.net
 hairtease.com
 hdmtools.com
 histats.link
@@ -18911,6 +18922,7 @@ track.gotprofits.com
 track.hubspot.com
 track.hydro.online
 track.lacunads.com
+track.landerlab.io
 track.lexico.com
 track.mp4.center
 track.notsy.io
