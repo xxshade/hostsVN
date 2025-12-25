@@ -9921,6 +9921,7 @@ siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 #[adobe.com]
+aepxlg.adobe.com
 campaign.adobe.com
 geo.adobe.com
 sstats.adobe.com
@@ -11883,3 +11884,6 @@ events.gfe.nvidia.com
 gx-target-experiments-frontend-api.gx.nvidia.com
 prod.otel.kaizen.nvidia.com
 telemetry.gfe.nvidia.com
+#[psvgamestudio.com]
+promo.psvgamestudio.com
+psvpromo.psvgamestudio.com

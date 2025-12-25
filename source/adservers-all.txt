@@ -357,6 +357,7 @@ adzerk.net
 aegis.qq.com
 aem-collector-*.kgslb.com
 aem-collector.daumkakao.io
+aepxlg.adobe.com
 aerserv.com
 afd.baidu.com
 aff-online.com
@@ -1587,6 +1588,7 @@ prod.*.publishers.advertising.a2z.com
 prod.otel.kaizen.nvidia.com
 prod.uidapi.com
 promo-*.vercel.app
+promo.psvgamestudio.com
 promoted.soundcloud.com
 promotionalads.yahoo.co.jp
 propellerads.com
@@ -1596,6 +1598,7 @@ protagcdn.com
 provenpixel.com
 proxy-skadnetwork.apple.com
 pssy.xyz
+psvpromo.psvgamestudio.com
 ptengine.cn
 ptengine.com
 ptengine.jp
