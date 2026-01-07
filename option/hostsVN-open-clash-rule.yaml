@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,ants.vn
   - DOMAIN-SUFFIX,anymind360-com.cdn.ampproject.org
   - DOMAIN-SUFFIX,anymind360.com
+  - DOMAIN-SUFFIX,api.moneyoyo.org
   - DOMAIN-SUFFIX,api.nas.nct.vn
   - DOMAIN-SUFFIX,api.subiz.com.vn
   - DOMAIN-SUFFIX,api.subiz.net
@@ -127,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,ezca.asia
   - DOMAIN-SUFFIX,facebook-ads.hara.vn
   - DOMAIN-SUFFIX,facebookinbox-omni-onapp.haravan.com
+  - DOMAIN-SUFFIX,feed.moneyoyo.org
   - DOMAIN-SUFFIX,ff.imacdn.com
   - DOMAIN-SUFFIX,fly-ads.net
   - DOMAIN-SUFFIX,flygame.io
@@ -258,6 +260,7 @@ payload:
   - DOMAIN-SUFFIX,s-logperf.vnexpress.net
   - DOMAIN-SUFFIX,s.tuoitre.vn
   - DOMAIN-SUFFIX,sbbanner-com.cdn.ampproject.org
+  - DOMAIN-SUFFIX,sdk.moneyoyo.com
   - DOMAIN-SUFFIX,sdk.zadn.vn
   - DOMAIN-SUFFIX,service-api.accesstrade.vn
   - DOMAIN-SUFFIX,service.adlinknetwork.vn
@@ -528,7 +531,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.zim.vn
   - DOMAIN-SUFFIX,api-logdev.sohatv.vn
   - DOMAIN-SUFFIX,api.boclinkads.com
-  - DOMAIN-SUFFIX,api.moneyoyo.org
   - DOMAIN-SUFFIX,api2.boclinkads.com
   - DOMAIN-SUFFIX,apia.headlines.pw
   - DOMAIN-SUFFIX,apiv2.tiin.vn
@@ -568,6 +570,7 @@ payload:
   - DOMAIN-SUFFIX,cpx.vnecdn.com
   - DOMAIN-SUFFIX,crocopop.com
   - DOMAIN-SUFFIX,csmads.gameclick.vn
+  - DOMAIN-SUFFIX,delivery.congthuong.vn
   - DOMAIN-SUFFIX,delivery.doisongphapluat.com.vn
   - DOMAIN-SUFFIX,delivery.lsvn.vn
   - DOMAIN-SUFFIX,delivery.senvangvn.com
@@ -753,7 +756,6 @@ payload:
   - DOMAIN-SUFFIX,s1.zzz.vn
   - DOMAIN-SUFFIX,s6.textlink.vn
   - DOMAIN-SUFFIX,sbbanner.com
-  - DOMAIN-SUFFIX,sdk.moneyoyo.com
   - DOMAIN-SUFFIX,sentry.mediacdn.vn
   - DOMAIN-SUFFIX,seo.cloud.edu.vn
   - DOMAIN-SUFFIX,server.zmedia.vn
@@ -4020,6 +4022,7 @@ payload:
   - DOMAIN-SUFFIX,alclick.com
   - DOMAIN-SUFFIX,alebrinkfed.com
   - DOMAIN-SUFFIX,alenty.com
+  - DOMAIN-SUFFIX,alexatracker.com
   - DOMAIN-SUFFIX,alexisceilingrelease.com
   - DOMAIN-SUFFIX,algorix.co
   - DOMAIN-SUFFIX,alia-iso.com
@@ -4618,6 +4621,7 @@ payload:
   - DOMAIN-SUFFIX,boxlikesedativespinach.com
   - DOMAIN-SUFFIX,boxofwhisper.com
   - DOMAIN-SUFFIX,boyaidare.club
+  - DOMAIN-SUFFIX,bpacihfabm.com
   - DOMAIN-SUFFIX,bpaqzithab.com
   - DOMAIN-SUFFIX,bpath.com
   - DOMAIN-SUFFIX,bpipihwhumif.com
@@ -4823,6 +4827,7 @@ payload:
   - DOMAIN-SUFFIX,cdrvrs.com
   - DOMAIN-SUFFIX,cedexis.com
   - DOMAIN-SUFFIX,ceegrevoaphail.com
+  - DOMAIN-SUFFIX,ceksevairs.com
   - DOMAIN-SUFFIX,celeritascdn.com
   - DOMAIN-SUFFIX,celltick.com
   - DOMAIN-SUFFIX,celoortdwt.com
@@ -5294,6 +5299,7 @@ payload:
   - DOMAIN-SUFFIX,dataretinalsubtotal.com
   - DOMAIN-SUFFIX,datatechonert.com
   - DOMAIN-SUFFIX,dataxu.com
+  - DOMAIN-SUFFIX,datemefast.com
   - DOMAIN-SUFFIX,datingprudethimble.com
   - DOMAIN-SUFFIX,daudejuw.com
   - DOMAIN-SUFFIX,daufouwhoag.net
@@ -5838,6 +5844,7 @@ payload:
   - DOMAIN-SUFFIX,framestighterauthorize.com
   - DOMAIN-SUFFIX,frameworkdeserve.com
   - DOMAIN-SUFFIX,freakishmartyr.com
+  - DOMAIN-SUFFIX,freckledoutsiderundaunted.com
   - DOMAIN-SUFFIX,free.srcdn.xyz
   - DOMAIN-SUFFIX,freebanner.com
   - DOMAIN-SUFFIX,freelinks.neocities.org
@@ -6708,6 +6715,7 @@ payload:
   - DOMAIN-SUFFIX,lessemujust.live
   - DOMAIN-SUFFIX,lfalfehuq.com
   - DOMAIN-SUFFIX,lfeorrzkua.com
+  - DOMAIN-SUFFIX,lflaocoebfflttt.com
   - DOMAIN-SUFFIX,lfstmedia.com
   - DOMAIN-SUFFIX,lgglobal.ihago.net
   - DOMAIN-SUFFIX,lhsnvrgcvnvuy.online
@@ -7001,6 +7009,7 @@ payload:
   - DOMAIN-SUFFIX,metanetwork.com
   - DOMAIN-SUFFIX,metanetwork.net
   - DOMAIN-SUFFIX,metaresolver.com
+  - DOMAIN-SUFFIX,metatrckpixel.com
   - DOMAIN-SUFFIX,methodcash.com
   - DOMAIN-SUFFIX,metric.huya.com
   - DOMAIN-SUFFIX,metric.picodi.com
@@ -7578,6 +7587,7 @@ payload:
   - DOMAIN-SUFFIX,oxldadxib.com
   - DOMAIN-SUFFIX,oxthrilled.com
   - DOMAIN-SUFFIX,oxwlhazto.com
+  - DOMAIN-SUFFIX,oyfuhknvk.com
   - DOMAIN-SUFFIX,ozbkfuhpuolf.com
   - DOMAIN-SUFFIX,ozbnagojbop.com
   - DOMAIN-SUFFIX,ozctkohaqmc.com
@@ -7977,6 +7987,7 @@ payload:
   - DOMAIN-SUFFIX,pulse360.com
   - DOMAIN-SUFFIX,pulseadnetwork.com
   - DOMAIN-SUFFIX,pulvinioreodon.com
+  - DOMAIN-SUFFIX,pumaqmqix.com
   - DOMAIN-SUFFIX,pumywyczbks.com
   - DOMAIN-SUFFIX,punyplant.com
   - DOMAIN-SUFFIX,puppyderisiverear.com
@@ -8150,6 +8161,7 @@ payload:
   - DOMAIN-SUFFIX,realteencash.com
   - DOMAIN-SUFFIX,realtracker.com
   - DOMAIN-SUFFIX,rebelhen.com
+  - DOMAIN-SUFFIX,rebtpzkgtas.com
   - DOMAIN-SUFFIX,recedechatprotestant.com
   - DOMAIN-SUFFIX,receiptcent.com
   - DOMAIN-SUFFIX,receive.wmcdp.io

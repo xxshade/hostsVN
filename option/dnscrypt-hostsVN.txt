@@ -63,6 +63,7 @@
 *.ants.vn
 *.anymind360-com.cdn.ampproject.org
 *.anymind360.com
+*.api.moneyoyo.org
 *.api.nas.nct.vn
 *.api.subiz.com.vn
 *.api.subiz.net
@@ -126,6 +127,7 @@
 *.ezca.asia
 *.facebook-ads.hara.vn
 *.facebookinbox-omni-onapp.haravan.com
+*.feed.moneyoyo.org
 *.ff.imacdn.com
 *.fly-ads.net
 *.flygame.io
@@ -257,6 +259,7 @@
 *.s-logperf.vnexpress.net
 *.s.tuoitre.vn
 *.sbbanner-com.cdn.ampproject.org
+*.sdk.moneyoyo.com
 *.sdk.zadn.vn
 *.service-api.accesstrade.vn
 *.service.adlinknetwork.vn
@@ -527,7 +530,6 @@
 *.analytics.zim.vn
 *.api-logdev.sohatv.vn
 *.api.boclinkads.com
-*.api.moneyoyo.org
 *.api2.boclinkads.com
 *.apia.headlines.pw
 *.apiv2.tiin.vn
@@ -567,6 +569,7 @@
 *.cpx.vnecdn.com
 *.crocopop.com
 *.csmads.gameclick.vn
+*.delivery.congthuong.vn
 *.delivery.doisongphapluat.com.vn
 *.delivery.lsvn.vn
 *.delivery.senvangvn.com
@@ -752,7 +755,6 @@
 *.s1.zzz.vn
 *.s6.textlink.vn
 *.sbbanner.com
-*.sdk.moneyoyo.com
 *.sentry.mediacdn.vn
 *.seo.cloud.edu.vn
 *.server.zmedia.vn
@@ -4019,6 +4021,7 @@
 *.alclick.com
 *.alebrinkfed.com
 *.alenty.com
+*.alexatracker.com
 *.alexisceilingrelease.com
 *.algorix.co
 *.alia-iso.com
@@ -4617,6 +4620,7 @@
 *.boxlikesedativespinach.com
 *.boxofwhisper.com
 *.boyaidare.club
+*.bpacihfabm.com
 *.bpaqzithab.com
 *.bpath.com
 *.bpipihwhumif.com
@@ -4822,6 +4826,7 @@
 *.cdrvrs.com
 *.cedexis.com
 *.ceegrevoaphail.com
+*.ceksevairs.com
 *.celeritascdn.com
 *.celltick.com
 *.celoortdwt.com
@@ -5293,6 +5298,7 @@
 *.dataretinalsubtotal.com
 *.datatechonert.com
 *.dataxu.com
+*.datemefast.com
 *.datingprudethimble.com
 *.daudejuw.com
 *.daufouwhoag.net
@@ -5837,6 +5843,7 @@
 *.framestighterauthorize.com
 *.frameworkdeserve.com
 *.freakishmartyr.com
+*.freckledoutsiderundaunted.com
 *.free.srcdn.xyz
 *.freebanner.com
 *.freelinks.neocities.org
@@ -6707,6 +6714,7 @@
 *.lessemujust.live
 *.lfalfehuq.com
 *.lfeorrzkua.com
+*.lflaocoebfflttt.com
 *.lfstmedia.com
 *.lgglobal.ihago.net
 *.lhsnvrgcvnvuy.online
@@ -7000,6 +7008,7 @@
 *.metanetwork.com
 *.metanetwork.net
 *.metaresolver.com
+*.metatrckpixel.com
 *.methodcash.com
 *.metric.huya.com
 *.metric.picodi.com
@@ -7577,6 +7586,7 @@
 *.oxldadxib.com
 *.oxthrilled.com
 *.oxwlhazto.com
+*.oyfuhknvk.com
 *.ozbkfuhpuolf.com
 *.ozbnagojbop.com
 *.ozctkohaqmc.com
@@ -7976,6 +7986,7 @@
 *.pulse360.com
 *.pulseadnetwork.com
 *.pulvinioreodon.com
+*.pumaqmqix.com
 *.pumywyczbks.com
 *.punyplant.com
 *.puppyderisiverear.com
@@ -8149,6 +8160,7 @@
 *.realteencash.com
 *.realtracker.com
 *.rebelhen.com
+*.rebtpzkgtas.com
 *.recedechatprotestant.com
 *.receiptcent.com
 *.receive.wmcdp.io
