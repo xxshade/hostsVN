@@ -918,6 +918,7 @@ payload:
   - DOMAIN-SUFFIX,ad.plus
   - DOMAIN-SUFFIX,ad.qq.com
   - DOMAIN-SUFFIX,ad.style
+  - DOMAIN-SUFFIX,ad.tiktokv.us
   - DOMAIN-SUFFIX,ad.weibo.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad.youku.com
@@ -1044,6 +1045,7 @@ payload:
   - DOMAIN-SUFFIX,ads-d.viber.com
   - DOMAIN-SUFFIX,ads-delivery.b-cdn.net
   - DOMAIN-SUFFIX,ads-dev.pinterest.com
+  - DOMAIN-SUFFIX,ads-ie.tiktokw.eu
   - DOMAIN-SUFFIX,ads-img.mozilla.org
   - DOMAIN-SUFFIX,ads-pixiv.net
   - DOMAIN-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com
@@ -1052,6 +1054,7 @@ payload:
   - DOMAIN-SUFFIX,ads-router-noneu.truecaller.com
   - DOMAIN-SUFFIX,ads-sg.tiktok.com
   - DOMAIN-SUFFIX,ads-trk.vidible.tv
+  - DOMAIN-SUFFIX,ads-ttp2.tiktokw.eu
   - DOMAIN-SUFFIX,ads-twitter.com
   - DOMAIN-SUFFIX,ads.*.yahoo.com
   - DOMAIN-SUFFIX,ads.amazon.dev
@@ -1081,6 +1084,7 @@ payload:
   - DOMAIN-SUFFIX,ads.sportradar.com
   - DOMAIN-SUFFIX,ads.thesun.co.uk
   - DOMAIN-SUFFIX,ads.tiktok.com
+  - DOMAIN-SUFFIX,ads.tiktokw.us
   - DOMAIN-SUFFIX,ads.truecaller.com
   - DOMAIN-SUFFIX,ads.tvb.com
   - DOMAIN-SUFFIX,ads.twitter.com
@@ -1254,8 +1258,10 @@ payload:
   - DOMAIN-SUFFIX,analysis.fi
   - DOMAIN-SUFFIX,analytics-ad-*.kgslb.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,analytics-ie.tiktokw.eu
   - DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us
   - DOMAIN-SUFFIX,analytics-sg.tiktok.com
+  - DOMAIN-SUFFIX,analytics-ttp2.tiktokw.eu
   - DOMAIN-SUFFIX,analytics.365scores.com
   - DOMAIN-SUFFIX,analytics.adjust.cn
   - DOMAIN-SUFFIX,analytics.adjust.com
@@ -1283,6 +1289,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.starmakerstudios.com
   - DOMAIN-SUFFIX,analytics.tango.me
   - DOMAIN-SUFFIX,analytics.tiktok.com
+  - DOMAIN-SUFFIX,analytics.tiktokw.us
   - DOMAIN-SUFFIX,analytics.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.unity3d.com
   - DOMAIN-SUFFIX,analytics.us.tiktok.com
@@ -1397,9 +1404,13 @@ payload:
   - DOMAIN-SUFFIX,audid-api.taobao.com
   - DOMAIN-SUFFIX,audrte.com
   - DOMAIN-SUFFIX,authbe.sec.intl.miui.com
+  - DOMAIN-SUFFIX,auto-load-balancer.likr.com.tw
+  - DOMAIN-SUFFIX,auto-load-balancer.likr.tw
   - DOMAIN-SUFFIX,automatad.com
   - DOMAIN-SUFFIX,auxml.com
   - DOMAIN-SUFFIX,avazutracking.net
+  - DOMAIN-SUFFIX,avivid.likr.tw
+  - DOMAIN-SUFFIX,avividone.likr.tw
   - DOMAIN-SUFFIX,awaps.yandex.net
   - DOMAIN-SUFFIX,awaps.yandex.ru
   - DOMAIN-SUFFIX,awin1.com
@@ -1508,6 +1519,7 @@ payload:
   - DOMAIN-SUFFIX,bugly.qq.com
   - DOMAIN-SUFFIX,bumlam.com
   - DOMAIN-SUFFIX,business-api.tiktok.com
+  - DOMAIN-SUFFIX,business-api.tiktokw.us
   - DOMAIN-SUFFIX,buysellads.com
   - DOMAIN-SUFFIX,buysellads.net
   - DOMAIN-SUFFIX,buzzoola.com
@@ -1782,6 +1794,7 @@ payload:
   - DOMAIN-SUFFIX,events.gfe.nvidia.com
   - DOMAIN-SUFFIX,events.iap.unity3d.com
   - DOMAIN-SUFFIX,events.mz.unity3d.com
+  - DOMAIN-SUFFIX,events.newsroom.bi
   - DOMAIN-SUFFIX,events.popinfo.jp
   - DOMAIN-SUFFIX,events.reddit.com
   - DOMAIN-SUFFIX,everestop.io
@@ -1958,6 +1971,7 @@ payload:
   - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,ibeat.indiatimes.com
   - DOMAIN-SUFFIX,ibillboard.com
+  - DOMAIN-SUFFIX,icu.newsroom.bi
   - DOMAIN-SUFFIX,id5-sync.com
   - DOMAIN-SUFFIX,idealmedia.io
   - DOMAIN-SUFFIX,ilyonanalytics.herokuapp.com
@@ -2163,10 +2177,13 @@ payload:
   - DOMAIN-SUFFIX,mazu.sec.miui.com
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,mc.yandex.ru
+  - DOMAIN-SUFFIX,mcs-ie.tiktokw.eu
+  - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com
   - DOMAIN-SUFFIX,mcs-va.capcutapi.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
+  - DOMAIN-SUFFIX,mcs.tiktokv.us
   - DOMAIN-SUFFIX,mcs.tiktokw.us
   - DOMAIN-SUFFIX,mcs.zijieapi.com
   - DOMAIN-SUFFIX,mcs16-normal-us-ttp.capcutapi.us
@@ -2264,6 +2281,7 @@ payload:
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,msgapp.com
   - DOMAIN-SUFFIX,mssdk.capcutapi.us
+  - DOMAIN-SUFFIX,mssdk.tiktokw.eu
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
   - DOMAIN-SUFFIX,mstorer.net
   - DOMAIN-SUFFIX,mtgglobals.com
@@ -3872,6 +3890,7 @@ payload:
   - DOMAIN-SUFFIX,ambulanceappealingrut.com
   - DOMAIN-SUFFIX,americash.com
   - DOMAIN-SUFFIX,amgs5.com
+  - DOMAIN-SUFFIX,amhrzucur.com
   - DOMAIN-SUFFIX,amillionads.com
   - DOMAIN-SUFFIX,amobee.com
   - DOMAIN-SUFFIX,amuletgloom.com
@@ -4074,8 +4093,6 @@ payload:
   - DOMAIN-SUFFIX,avehistoric.com
   - DOMAIN-SUFFIX,avenuea.com
   - DOMAIN-SUFFIX,avhkihpfabt.com
-  - DOMAIN-SUFFIX,avivid.likr.tw
-  - DOMAIN-SUFFIX,avividone.likr.tw
   - DOMAIN-SUFFIX,avocet.io
   - DOMAIN-SUFFIX,avouchuramil.com
   - DOMAIN-SUFFIX,awembd.com
@@ -5097,7 +5114,6 @@ payload:
   - DOMAIN-SUFFIX,events.jora.com
   - DOMAIN-SUFFIX,events.launchdarkly.com
   - DOMAIN-SUFFIX,events.mapbox.com
-  - DOMAIN-SUFFIX,events.newsroom.bi
   - DOMAIN-SUFFIX,events.ocdn.eu
   - DOMAIN-SUFFIX,events.redditmedia.com
   - DOMAIN-SUFFIX,events.shoplytics.com
@@ -5363,6 +5379,7 @@ payload:
   - DOMAIN-SUFFIX,gscontxt.net
   - DOMAIN-SUFFIX,gsjln04hd.com
   - DOMAIN-SUFFIX,gstguj.com
+  - DOMAIN-SUFFIX,gt.unbrownunflat.com
   - DOMAIN-SUFFIX,gtop.ro
   - DOMAIN-SUFFIX,gtop100.com
   - DOMAIN-SUFFIX,gtsmobi.com
@@ -5660,6 +5677,7 @@ payload:
   - DOMAIN-SUFFIX,jivox.com
   - DOMAIN-SUFFIX,jl63v3fp1.com
   - DOMAIN-SUFFIX,jmt7mbwce.com
+  - DOMAIN-SUFFIX,jnbhi.com
   - DOMAIN-SUFFIX,jnrtavp2x66u.com
   - DOMAIN-SUFFIX,joetec.net
   - DOMAIN-SUFFIX,joopaish.com
@@ -5726,6 +5744,7 @@ payload:
   - DOMAIN-SUFFIX,kqzyfj.com
   - DOMAIN-SUFFIX,krisydark.com
   - DOMAIN-SUFFIX,krjxhvyyzp.com
+  - DOMAIN-SUFFIX,ksvjmvrjjo.com
   - DOMAIN-SUFFIX,ktkjmp.com
   - DOMAIN-SUFFIX,kts.visitstats.com
   - DOMAIN-SUFFIX,ktu.sv2.biz
@@ -6370,6 +6389,7 @@ payload:
   - DOMAIN-SUFFIX,outrotomr.com
   - DOMAIN-SUFFIX,outsliggooa.com
   - DOMAIN-SUFFIX,overcrowdsillyturret.com
+  - DOMAIN-SUFFIX,overgreedyminddegree.com
   - DOMAIN-SUFFIX,overture.com
   - DOMAIN-SUFFIX,ovmhwiccikr.com
   - DOMAIN-SUFFIX,owebmoney.ru
@@ -6700,6 +6720,7 @@ payload:
   - DOMAIN-SUFFIX,pwmctl.com
   - DOMAIN-SUFFIX,px.effirst.com
   - DOMAIN-SUFFIX,pxlctl.elpais.com
+  - DOMAIN-SUFFIX,pyicbcxvs.com
   - DOMAIN-SUFFIX,pymx5.com
   - DOMAIN-SUFFIX,pyxiscablese.com
   - DOMAIN-SUFFIX,q.azcentral.com
@@ -7953,6 +7974,7 @@ payload:
   - DOMAIN-SUFFIX,xlx1.com
   - DOMAIN-SUFFIX,xm.geslingclime.shop
   - DOMAIN-SUFFIX,xmirex.com
+  - DOMAIN-SUFFIX,xp.retinichawks.cyou
   - DOMAIN-SUFFIX,xpe9.com
   - DOMAIN-SUFFIX,xplosion.de
   - DOMAIN-SUFFIX,xponsor.com

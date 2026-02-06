@@ -1,7 +1,7 @@
 # Title: hostsVN Threat
-# Last modified: 18 Jan 2026 11:06 UTC+7
-# Version: 2601181106
-# Blocked: 4.906 domains
+# Last modified: 06 Feb 2026 15:35 UTC+7
+# Version: 2602061535
+# Blocked: 4.907 domains
 # Only include threat domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1394,6 +1394,7 @@
 0.0.0.0 kbvnpjijrahsgchor.org
 0.0.0.0 kdsf11.com
 0.0.0.0 keeklagqpvg.com
+0.0.0.0 kenh14.online
 0.0.0.0 kenkenlimted.top
 0.0.0.0 kerrysexchange.com
 0.0.0.0 ketban.online

@@ -151,6 +151,7 @@
 789club.com
 789club.org
 789club.sx
+789club.vg
 789club.vin
 789club.win
 789clubs.club
@@ -261,6 +262,7 @@
 99vina.club
 99vn.bet
 9b992.com
+9bet.mobi
 9bet.net
 9bet.win
 9e3c.com
@@ -319,6 +321,8 @@ aevn999.com
 aff.188thethao.com
 aff.ole777vietnam.com
 aff.solarbet.com
+aff.taptap.asia
+aff.taptaptructuyen.com
 affbo.fb88aff.com
 affiliate.88vnd.com
 affiliate.vn88.com
@@ -348,6 +352,7 @@ api.123bhh.com
 api.33beta.com
 api.88bet88bet.com
 api.99vn.bet
+api.9bet.mobi
 api.9bet.win
 api.ae888.com
 api.ae88827.com
@@ -379,6 +384,7 @@ api.sky88.com
 api.st666.win
 api.topbet.net
 api.topbet.top
+api.usbet.cc
 api.usbet.net
 api.usbet.win
 api.v79top.com
@@ -578,6 +584,7 @@ choi99.com
 choib52.club
 choib52.me
 choibec88.vip
+choibongtaptap.com
 choidabanh.com
 choidonclub.club
 choigametip.org
@@ -731,6 +738,7 @@ dp568.com
 dp568bet.com
 du88.club
 du88.com
+du88.pro
 dubaivn.vip
 duongdenkhungthanh.com
 ebet.com
@@ -946,6 +954,7 @@ gd55id.com
 gem.win
 gem1.win
 gem88.com
+gem88.guru
 gem88.win
 gemwin.page
 gemwin.vip
@@ -1245,6 +1254,7 @@ k8.games
 k801k.com
 k81206.com
 k88.club
+k88.mobi
 k88.pro
 k88.win
 k89bet.com
@@ -1484,6 +1494,7 @@ lp.zo1.win
 lt991.com
 lu88.co
 lu88.com
+lu88.gdn
 lu88.pro
 luck6.com
 luck8.com
@@ -1583,6 +1594,7 @@ m1.tin88.bet
 m1.vin88.net
 m1.vin88.vin
 m1.vin88.vip
+m1.xibet.fun
 m2.tin88.vip
 m2305.com
 m88.run
@@ -1604,6 +1616,7 @@ man.vip
 man1.club
 man79.org
 man88.net
+man88.pw
 man88.top
 man88.vip
 man88.win
@@ -2049,6 +2062,7 @@ sk.vin88.net
 sk.vin88.vin
 sk.vin88.vip
 sk.xibet.com
+sk.xibet.fun
 sky88.bet
 sky88.club
 sky88.com
@@ -2078,12 +2092,14 @@ sock.red88.vip
 sock.sky88.club
 sock.sky88.com
 sock.sky88.in
+socket.9bet.mobi
 socket.9bet.win
 socket.debet.so
 socket.debet.uk
 socket.debet.win
 socket.hdbet.com
 socket.topbet.top
+socket.usbet.cc
 socket.usbet.net
 socket.usbet.win
 sodo.bond
@@ -2121,6 +2137,7 @@ st666win.us
 st666yet.site
 static.fabet.com
 static.gem88.com
+static.gem88.guru
 static.hi88.de
 static.lu88.com
 static.zo88.vip
@@ -2241,6 +2258,8 @@ taiwin79.win
 taixiusunwin.games
 tangl0c.8day66.com
 tap88.club
+taptap.asia
+taptaptructuyen.com
 tbab395.com
 td88.club
 td88.info
@@ -2356,6 +2375,7 @@ tt128.net
 twin5568.com
 tx1.vip
 tx88.com
+tx88.fun
 tx88.top
 tydo88.com
 tz.bet20.bet
@@ -2369,6 +2389,7 @@ uk88.com
 uk88.top
 uk88.vip
 upanh.vn88.com
+usbet.cc
 usbet.net
 usbet.win
 uu88.com
@@ -2536,6 +2557,7 @@ vsports.pro
 vsports88.asia
 vstar79.com
 vu88.com
+vu88.de
 vu88.net
 vua88.app
 vua88.biz
@@ -2680,6 +2702,7 @@ winvn17.com
 winvn18.com
 won88.com
 won88.win
+wp.9bet.mobi
 wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
@@ -3164,6 +3187,7 @@ xemdabanh.club
 xemdagacampuchia.com
 xemtylecacuoc.bong99.com
 xibet.com
+xibet.fun
 xibet.win
 xidach.8day66.com
 xingtou888.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 Jan 2026 11:06 UTC+7
-! Version: 2601181106
-! Blocked: 4.340 rules
+! Last modified: 06 Feb 2026 15:35 UTC+7
+! Version: 2602061535
+! Blocked: 4.341 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1139,6 +1139,7 @@
 ||kavaycash.com^
 ||kavietnam.xyz^
 ||kdsf11.com^
+||kenh14.online^
 ||kerrysexchange.com^
 ||ketban.online^
 ||kfdg22.com^

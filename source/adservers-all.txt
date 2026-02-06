@@ -76,6 +76,7 @@ ad.mail.ru
 ad.plus
 ad.qq.com
 ad.style
+ad.tiktokv.us
 ad.weibo.com
 ad.xiaomi.com
 ad.youku.com
@@ -202,6 +203,7 @@ ads-cloud.rovio.com
 ads-d.viber.com
 ads-delivery.b-cdn.net
 ads-dev.pinterest.com
+ads-ie.tiktokw.eu
 ads-img.mozilla.org
 ads-pixiv.net
 ads-privacy-api.prd.mz.internal.unity3d.com
@@ -210,6 +212,7 @@ ads-resources.waze.com
 ads-router-noneu.truecaller.com
 ads-sg.tiktok.com
 ads-trk.vidible.tv
+ads-ttp2.tiktokw.eu
 ads-twitter.com
 ads.*.yahoo.com
 ads.amazon.dev
@@ -239,6 +242,7 @@ ads.snapchat.com
 ads.sportradar.com
 ads.thesun.co.uk
 ads.tiktok.com
+ads.tiktokw.us
 ads.truecaller.com
 ads.tvb.com
 ads.twitter.com
@@ -412,8 +416,10 @@ analy.qq.com
 analysis.fi
 analytics-ad-*.kgslb.com
 analytics-alv.google.com
+analytics-ie.tiktokw.eu
 analytics-ipv6.tiktokw.us
 analytics-sg.tiktok.com
+analytics-ttp2.tiktokw.eu
 analytics.365scores.com
 analytics.adjust.cn
 analytics.adjust.com
@@ -441,6 +447,7 @@ analytics.s3.amazonaws.com
 analytics.starmakerstudios.com
 analytics.tango.me
 analytics.tiktok.com
+analytics.tiktokw.us
 analytics.uca.cloud.unity3d.com
 analytics.unity3d.com
 analytics.us.tiktok.com
@@ -555,9 +562,13 @@ audid-api-sg.taobao.com
 audid-api.taobao.com
 audrte.com
 authbe.sec.intl.miui.com
+auto-load-balancer.likr.com.tw
+auto-load-balancer.likr.tw
 automatad.com
 auxml.com
 avazutracking.net
+avivid.likr.tw
+avividone.likr.tw
 awaps.yandex.net
 awaps.yandex.ru
 awin1.com
@@ -666,6 +677,7 @@ bttrack.com
 bugly.qq.com
 bumlam.com
 business-api.tiktok.com
+business-api.tiktokw.us
 buysellads.com
 buysellads.net
 buzzoola.com
@@ -940,6 +952,7 @@ events.avantisvideo.com
 events.gfe.nvidia.com
 events.iap.unity3d.com
 events.mz.unity3d.com
+events.newsroom.bi
 events.popinfo.jp
 events.reddit.com
 everestop.io
@@ -1116,6 +1129,7 @@ iads.unity3d.com
 iadsdk.apple.com
 ibeat.indiatimes.com
 ibillboard.com
+icu.newsroom.bi
 id5-sync.com
 idealmedia.io
 ilyonanalytics.herokuapp.com
@@ -1321,10 +1335,13 @@ maxymiser.net
 mazu.sec.miui.com
 mc.yandex.com
 mc.yandex.ru
+mcs-ie.tiktokw.eu
+mcs-ie2.tiktokw.eu
 mcs-sg.tiktok.com
 mcs-va.capcutapi.com
 mcs-va.tiktokv.com
 mcs.snssdk.com
+mcs.tiktokv.us
 mcs.tiktokw.us
 mcs.zijieapi.com
 mcs16-normal-us-ttp.capcutapi.us
@@ -1422,6 +1439,7 @@ mparticle.com
 msga.cupid.iqiyi.com
 msgapp.com
 mssdk.capcutapi.us
+mssdk.tiktokw.eu
 mssdk.tiktokw.us
 mstorer.net
 mtgglobals.com
