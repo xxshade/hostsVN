@@ -24080,6 +24080,7 @@
 789club.shop
 789club.sx
 789club.top
+789club.vg
 789club.vin
 789club.win
 789clubs.club
@@ -31042,6 +31043,7 @@
 9b211.com
 9b992.com
 9banca.com
+9bet.mobi
 9bet.net
 9bet.win
 9bo999.com
@@ -31437,6 +31439,8 @@ aff.188thethao.com
 aff.51wanqiu.net
 aff.ole777vietnam.com
 aff.solarbet.com
+aff.taptap.asia
+aff.taptaptructuyen.com
 aff.therich888.net
 aff1xstavka.com
 aff1xstavka.top
@@ -31947,6 +31951,7 @@ api.8live.biz
 api.9173555.com
 api.996221.com
 api.99vn.bet
+api.9bet.mobi
 api.9bet.win
 api.ae888.com
 api.ae88827.com
@@ -32024,6 +32029,7 @@ api.td88yn2.com
 api.tk8844.app
 api.topbet.net
 api.topbet.top
+api.usbet.cc
 api.usbet.net
 api.usbet.win
 api.v79top.com
@@ -36427,6 +36433,7 @@ choi99.com
 choib52.club
 choib52.me
 choibec88.vip
+choibongtaptap.com
 choichuyen.com
 choicungfun.com
 choidabanh.com
@@ -36590,6 +36597,7 @@ cms.statickbet.win
 cms.staticmb88.com
 cms.staticnc88.com
 cms.staticone88.com
+cms.statictx88.win
 cms.staticvu88.com
 cms.v79top.com
 cms.vh79.com
@@ -38153,6 +38161,7 @@ du5151.com
 du5252.com
 du88.club
 du88.com
+du88.pro
 dubai-speed.com
 dubai147.com
 dubai232.com
@@ -40689,6 +40698,7 @@ geiqianle.com
 gem.win
 gem1.win
 gem88.com
+gem88.guru
 gem88.win
 gemarlapsbo.com
 gemblondong77.xyz
@@ -47020,6 +47030,7 @@ k8799.com
 k87kjs32s239.com
 k88.casino
 k88.club
+k88.mobi
 k88.pro
 k88.win
 k8801.com
@@ -48887,6 +48898,7 @@ lttfun66.com
 lttyuming.com
 lu88.co
 lu88.com
+lu88.gdn
 lu88.pro
 lua999vnd.com
 luck6.com
@@ -49760,6 +49772,7 @@ m1.tin88.bet
 m1.vin88.net
 m1.vin88.vin
 m1.vin88.vip
+m1.xibet.fun
 m10bet.com
 m13877.com
 m178.info
@@ -49899,6 +49912,7 @@ man.vip
 man1.club
 man79.org
 man88.net
+man88.pw
 man88.top
 man88.vip
 man88.win
@@ -54791,6 +54805,7 @@ sk.vin88.net
 sk.vin88.vin
 sk.vin88.vip
 sk.xibet.com
+sk.xibet.fun
 sk051.com
 sk9905.com
 ska539.com
@@ -54926,12 +54941,14 @@ sock.red88.vip
 sock.sky88.club
 sock.sky88.com
 sock.sky88.in
+socket.9bet.mobi
 socket.9bet.win
 socket.debet.so
 socket.debet.uk
 socket.debet.win
 socket.hdbet.com
 socket.topbet.top
+socket.usbet.cc
 socket.usbet.net
 socket.usbet.win
 sodeonline.xyz
@@ -55172,6 +55189,7 @@ static.abc1txsa.com
 static.fabet.com
 static.fastbs55.com
 static.gem88.com
+static.gem88.guru
 static.hi88.de
 static.lu88.com
 static.roibest.com
@@ -55806,6 +55824,8 @@ taobao166.com
 taotaikhoan88.com
 tap-master-color-rush-challenge.vercel.app
 tap88.club
+taptap.asia
+taptaptructuyen.com
 tb074.com
 tb4409.com
 tb588vip.net
@@ -56763,6 +56783,7 @@ tx1.vip
 tx668.vip
 tx68.vip
 tx88.com
+tx88.fun
 tx88.top
 tx88.vip
 txcmc.xyz
@@ -57406,6 +57427,7 @@ uqageyl.xyz
 urbeliever.xyz
 urbwhelp.com
 url130.com
+usbet.cc
 usbet.net
 usbet.win
 uscasinos.com
@@ -58689,6 +58711,7 @@ vtyf37.com
 vtyf58.com
 vtyt0.com
 vu88.com
+vu88.de
 vu88.net
 vua69.com
 vua88.app
@@ -60778,6 +60801,7 @@ wowslot008.pro
 wowslot66.live
 wowwin7.com
 wp.8live.biz
+wp.9bet.mobi
 wp.9bet.win
 wp.appwin79.biz
 wp.debet79.info
@@ -62465,6 +62489,7 @@ xiaotongjiangcu.com
 xiaoxiaokezhuo.com
 xiapiiurulzrivterx.xyz
 xibet.com
+xibet.fun
 xibet.win
 xidach.8day66.com
 xifali.com

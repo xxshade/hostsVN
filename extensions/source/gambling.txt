@@ -61200,6 +61200,7 @@ static.abc1txsa.com
 v1.bundlecdn.com
 res.1wcommon.com
 statictx88.win
+cms.statictx88.win
 luck8-viet.227290wss.com
 static-mobile-vn.mbzp67c522.com
 static-imftp.mbzp67c522.com
