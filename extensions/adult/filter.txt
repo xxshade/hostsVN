@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 06 Feb 2026 15:35 UTC+7
-! Version: 2602061535
-! Blocked: 22.379 rules
+! Last modified: 24 Feb 2026 16:39 UTC+7
+! Version: 2602241639
+! Blocked: 22.405 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5631,6 +5631,7 @@
 ||coiphimsex.org^
 ||coithienthai.com^
 ||cojiendo.top^
+||colegialastok.com^
 ||colitahentai.su^
 ||collegehdsex.com^
 ||colmao.com^
@@ -6345,6 +6346,7 @@
 ||donnematurenude.com^
 ||donnenudexxx.casa^
 ||donnexxxfilm.casa^
+||donpaja.com^
 ||dorean.top^
 ||dornopomidorno.com^
 ||dorogie-prostitutki-novosibirska.men^
@@ -6391,6 +6393,7 @@
 ||drivergude.com^
 ||drlesbianporn.com^
 ||drmatureporn.com^
+||dropmms.net^
 ||drpornfree.com^
 ||drpornsite.com^
 ||drshemale.com^
@@ -6996,6 +6999,7 @@
 ||fagxtube.com^
 ||fairasian.com^
 ||fairynudes.com^
+||fakboi.tv^
 ||fakeporn.tv^
 ||fakku.net^
 ||fame88.com^
@@ -7444,6 +7448,7 @@
 ||frodoporn.com^
 ||frogribbit.com^
 ||frumpytube.com^
+||fry99.com^
 ||fs-lsd.com^
 ||fs-pcb.com^
 ||fs-szk.com^
@@ -10946,6 +10951,7 @@
 ||kickassteens.com^
 ||kickbackproof.com^
 ||kieunuvadaigia.xyz^
+||kifpy.com^
 ||kikdirty.com^
 ||kill-the-hero.com^
 ||kiloporno.com^
@@ -11452,6 +11458,7 @@
 ||loclipnong.xyz^
 ||loclipsex.net^
 ||lol67.com^
+||lolpol2.com^
 ||lon88.com^
 ||lon88.vip^
 ||lon88.ws^
@@ -11736,6 +11743,7 @@
 ||marcandela.com^
 ||markxart.com^
 ||marstrades.icu^
+||masala-desi.com^
 ||masaporn.xyz^
 ||massagebinhduong.vipvn.net^
 ||massagegayhcm.110.vn^
@@ -12543,6 +12551,7 @@
 ||mybeegtube.com^
 ||mycolor365.com^
 ||mycrazyporn.com^
+||mydesi.net^
 ||mydreamfuck.com^
 ||mydreamgirls.net^
 ||myebonysex.com^
@@ -12810,6 +12819,8 @@
 ||nineteenpussy.com^
 ||nineteenpussy.net^
 ||nineteentube.com^
+||ninjakol.cc^
+||ninjakol.pro^
 ||nirvanaporn.com^
 ||nison-shanghai.com^
 ||nitrolist.com^
@@ -13594,8 +13605,17 @@
 ||picsofasiansex.com^
 ||pilluporno.com^
 ||pilluvideot.com^
+||pinaycum.com^
+||pinaycum.tv^
+||pinaylulu.cz^
+||pinaylulu.tv^
+||pinayluluvideo.com^
+||pinayone.net^
+||pinayreel.tv^
 ||pinaysexstories.com^
+||pinaytea.com^
 ||pinayviralsexx.com^
+||pinayvlog.com^
 ||pinchengzhipin.com^
 ||pineconesmart.com^
 ||pinjy.com^
@@ -16168,6 +16188,9 @@
 ||pussyspace.com^
 ||pussyteensluts.com^
 ||pussytube.net^
+||pwerta.com^
+||pwetan.com^
+||pwetan.lol^
 ||pxsytc.com^
 ||pxxrprsseevv.xyz^
 ||pywm.net^
@@ -20726,6 +20749,9 @@
 ||xozilla.com^
 ||xpdlgt.com^
 ||xphimsex.xyz^
+||xpinay.one^
+||xpinay.tv^
+||xpinayvids.net^
 ||xpjianfei.com^
 ||xporn.desi^
 ||xporn.gay^

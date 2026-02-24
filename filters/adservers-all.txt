@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Feb 2026 15:34 UTC+7
-! Version: 2602061534
-! Blocked: 8.073 rules
+! Last modified: 24 Feb 2026 16:39 UTC+7
+! Version: 2602241639
+! Blocked: 8.090 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1220,6 +1220,7 @@
 ||afp.ai^
 ||agentanalytics.com^
 ||agkn.com^
+||agl006.host^
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||aicactus.io^
 ||aidata.io^
@@ -1280,6 +1281,7 @@
 ||analytics.bigdata.samsung.com^
 ||analytics.cloud.unity3d.com^
 ||analytics.edgekey.net^
+||analytics.eu.adjust.com^
 ||analytics.ff.avast.com^
 ||analytics.google.com^
 ||analytics.live.com^
@@ -1750,6 +1752,7 @@
 ||drfdisvc.walmart.com^
 ||ds-aksb-a.akamaihd.net^
 ||dsb.yahoo.co.jp^
+||dsp-api.moloco.com^
 ||dspmulti.com^
 ||dtscout.com^
 ||du8783wkf05yr.cloudfront.net^
@@ -3841,6 +3844,7 @@
 ||afftracking.justanswer.com^
 ||afftrk.altex.ro^
 ||afrjhanwosa.com^
+||afzotfwramzy.in^
 ||agacelebir.com^
 ||aggravatingoil.com^
 ||agle21xe2anfddirite.com^
@@ -3856,6 +3860,7 @@
 ||aim4media.com^
 ||ainouzaudre.net^
 ||aiqidwcfrm.com^
+||aiqowflpg.com^
 ||airdropcassino.cfd^
 ||aistat.net^
 ||ajfnee.com^
@@ -3891,6 +3896,7 @@
 ||alpixtrack.com^
 ||alternativecpmgate.com^
 ||alwingulla.com^
+||alwxamfivx.com^
 ||amare.agency^
 ||amazingcounters.com^
 ||ambleads.com^
@@ -4311,6 +4317,7 @@
 ||boilingbeetle.com^
 ||bojel.com^
 ||boldchat.com^
+||bondeddarkenedswerve.com^
 ||bondleapedoasis.com^
 ||bonepa.com^
 ||bonertraffic13.info^
@@ -4853,6 +4860,7 @@
 ||damdoor.com^
 ||danbo.org^
 ||dap.digitalgov.gov^
+||darnobedienceupscale.com^
 ||daserver.ultraweb.hu^
 ||data.abebooks.com^
 ||data.adxcel-ec2.com^
@@ -5395,6 +5403,7 @@
 ||guidecent.com^
 ||guidepaparazzisurface.com^
 ||guihua-china.com^
+||gukahdbam.com^
 ||gullyending.com^
 ||gunggo.com^
 ||guppymedia.com^
@@ -5475,6 +5484,7 @@
 ||hitslink.com^
 ||hittail.com^
 ||hitwebcounter.com^
+||hixwwert.in^
 ||hlog.bclugu.com^
 ||hockeyhavoc.com^
 ||holahupa.com^
@@ -5503,6 +5513,7 @@
 ||huskypartydance.com^
 ||hv.pultosteduardo.com^
 ||hw.zuimeitianqi.com^
+||hwoqshyx.com^
 ||hwpnocpctu.com^
 ||hxgqqxopf.com^
 ||hybrid.ai^
@@ -5766,6 +5777,7 @@
 ||kzuocxorfo.com^
 ||laceassumestatic.com^
 ||lactolwant.com^
+||lakenebulareentry.com^
 ||lakns.com^
 ||lammasbananas.com^
 ||landsideresendtrousers.com^
@@ -6162,6 +6174,7 @@
 ||namimedia.com^
 ||nan46ysangt28eec.com^
 ||nappyattack.com^
+||nappyonsetstiffness.com^
 ||nasadfgzaq.com^
 ||nastydollars.com^
 ||nationalgausewatrust.com^
@@ -7338,6 +7351,7 @@
 ||swdqortugmmrj.online^
 ||swesomepop.com^
 ||switchads.com^
+||swmswjvdpc.com^
 ||swordgoose.com^
 ||swpsvc.com^
 ||swuojrovqf.com^
@@ -7525,6 +7539,7 @@
 ||track-aws.notsy.io^
 ||track.56txs4.com^
 ||track.acqvoluum.com^
+||track.admitdftb.com^
 ||track.anchorfree.com^
 ||track.buybestday.com^
 ||track.cbdatatracker.com^
@@ -7697,6 +7712,7 @@
 ||umexalim.com^
 ||unanimis.co.uk^
 ||unarmedindustry.com^
+||unarmedlickpattern.com^
 ||unclesnewspaper.com^
 ||unheadedsouptotal.com^
 ||unicaitaly.it^
@@ -7983,6 +7999,7 @@
 ||xmirex.com^
 ||xp.retinichawks.cyou^
 ||xpe9.com^
+||xpihripcao.in^
 ||xplosion.de^
 ||xponsor.com^
 ||xq1.net^
