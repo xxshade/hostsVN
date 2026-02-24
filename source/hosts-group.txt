@@ -10731,11 +10731,16 @@ stat.ovh
 adcloud.adsmoloco.com
 adsmoloco.com
 cdn-f.adsmoloco.com
+noti-asia.adsmoloco.com
+noti-us.adsmoloco.com
 postback.adsmoloco.com
 tr-asia.adsmoloco.com
 tr-eu.adsmoloco.com
 tr-us.adsmoloco.com
 tr.adsmoloco.com
+#[dsp-api.moloco.com]
+dsp-api.moloco.com
+sdkapi.dsp-api.moloco.com
 #[jeeng.com]
 api.jeeng.com
 jeeng.com
@@ -11572,6 +11577,7 @@ analytics.adjust.com
 analytics.adjust.io
 analytics.adjust.net.in
 analytics.adjust.world
+analytics.eu.adjust.com
 app.adjust.cn
 app.adjust.com
 app.adjust.io
@@ -11921,3 +11927,8 @@ auto-load-balancer.likr.com.tw
 #[newsroom.bi]
 events.newsroom.bi
 icu.newsroom.bi
+#[agl006.host]
+agl006.host
+cvt-s1.agl006.host
+cvt-s2.agl006.host
+spx-s1.agl006.host
