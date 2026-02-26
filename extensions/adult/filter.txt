@@ -1,7 +1,7 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 24 Feb 2026 16:39 UTC+7
-! Version: 2602241639
+! Last modified: 26 Feb 2026 16:29 UTC+7
+! Version: 2602261629
 ! Blocked: 22.405 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/

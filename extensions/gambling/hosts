@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 24 Feb 2026 16:39 UTC+7
-# Version: 2602241639
-# Blocked: 64.866 domains
+# Last modified: 26 Feb 2026 16:29 UTC+7
+# Version: 2602261629
+# Blocked: 64.867 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -33922,6 +33922,7 @@
 0.0.0.0 betvegas527.com
 0.0.0.0 betvie.com
 0.0.0.0 betvip.center
+0.0.0.0 betvip.network
 0.0.0.0 betvisa.com
 0.0.0.0 betvisa.dog
 0.0.0.0 betvisa.info
